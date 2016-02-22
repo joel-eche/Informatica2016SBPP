@@ -1,0 +1,24 @@
+
+body{
+    background-color: #D7E3EF;
+}
+
+.login-container {
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: -10px 10px 20px currentColor;
+    margin-top: 50px;
+    padding-top: 5px;
+    width: 350px;
+}
+
+
+.profile-img-card {
+    width: 120px;
+    height: 120px;
+    margin: 0 auto 10px;
+    display: block;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
