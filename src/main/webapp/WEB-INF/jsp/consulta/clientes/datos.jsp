@@ -11,7 +11,7 @@
 
 
 <div id="mantenimiento" class="container">
-    <h1>Consulta Clientes</h1>
+    <h1>Consulta Clientes-Cambio</h1>
     <hr />
     <div class="row">
 
